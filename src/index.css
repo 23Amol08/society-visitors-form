@@ -1,0 +1,18 @@
+body {
+    background-color: #431852;
+    background-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png");
+    display: grid;
+    margin-top: 30px;
+  }
+
+.form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}  
+
+.card-box{
+  place-items: center;
+}
+
